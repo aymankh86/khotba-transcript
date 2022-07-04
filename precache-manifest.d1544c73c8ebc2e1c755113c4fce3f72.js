@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b28606f127bd85dcdaca861e513b3194",
+    "revision": "d6ee5bde4958bc6ce09fc9a66fce9608",
     "url": "/khotba-transcript/index.html"
   },
   {
